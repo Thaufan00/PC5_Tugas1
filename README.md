@@ -1,4 +1,3 @@
-![tampilan pc5](https://user-images.githubusercontent.com/77445263/194728840-f91349d8-dd4b-4dea-a65f-2d38b5206c6c.png)
 # PC5_Tugas1_nim
 ### Nama
 ### PC 5
